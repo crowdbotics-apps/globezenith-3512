@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT globezenith_3512.wsgi:application
